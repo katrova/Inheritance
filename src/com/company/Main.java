@@ -7,7 +7,7 @@ package com.company;
  *
  * Copyright Vasylkivska Kateryna KNTEU
  *
- * Module 2 task 2
+ * Module 2
  *
  * Inheritance
 
@@ -16,10 +16,9 @@ package com.company;
    2. Create another class as a super class for your one.  Or create a daughterly class for your one.
  */
 
-
 public class Main {
 
-    public static void main(String[] args) {
-	// write your code here
-    }
+  public static void main(String[] args) {
+
+  }
 }
